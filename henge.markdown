@@ -7,4 +7,4 @@ title: Stop Motion Lighting Controller
 
 {% include youtube.html id="T7sVFB0ZJ2w" %}
 
-Lighting design for Katy-Ann Bellis and Henge
+Lighting design for [Katy-Anne Bellis](https://www.katyannebellis.co.uk) and [Henge](https://hengemusic.com/)
