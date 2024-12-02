@@ -23,13 +23,16 @@ email: hide!
 description: >- # this means to ignore newlines until "baseurl:"
 
 
+#baseurl: /portfolio # the subpath of your site, e.g. /blog
+url: https://cpethica.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  cpethica
 
 # Build settings
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 #remote_theme: pages-themes/leap-day@v0.2.0
-
+#plugins:
+#- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Exclude from processing.
 # The following items will not be processed, by default.
