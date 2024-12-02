@@ -1,13 +1,19 @@
 {% if site.logo %}
-<img class="logo" src="{{ site.logo | relative_url }}" alt="Logo">
+<a href="/">
+    <img class="logo" src="{{ site.logo | relative_url }}" alt="Logo">
+</a>
 {% endif %}
 
 {% if site.blank_title %}
-<h1>{{ site.title | default: site.github.repository_name }}</h1>
+<a href="/">
+    <h2>{{ site.title | default: site.github.repository_name }}</h2>
+</a>
 {% else %}
-<h1>{{ site.title | default: site.github.repository_name }}</h1>
+<a href="/">
+    <h2>{{ site.title | default: site.github.repository_name }}</h2>
+</a>
 {% endif %}
 
 {% if site.email %}
-<p class="addr"><i class="fa-solid fa-envelope"></i>&nbsp;<a href="mailto:{{site.email}}">{{ site.email }}</a></p>
+<p class="addr"><i class="fa-solid fa-envelope"></i>&nbsp;<a href="/contact/">Contact</a></p>
 {% endif %}

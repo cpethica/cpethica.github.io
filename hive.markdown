@@ -3,7 +3,7 @@ layout: default
 title: Hive
 ---
 
-# Hive - 2018
+## Hive - 2018
 
 {% include youtube.html id="S9zBhZN5ock" %}
 

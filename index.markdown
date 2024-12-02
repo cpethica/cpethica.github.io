@@ -6,11 +6,7 @@ layout: default
 title: Portfolio
 ---
 
-# Charlie Pethica
+# About
 
 Creative technologist with expertise in lighting, electronics, coding and computer aided manufacturing. I design and build robotic, sonic, illuminated and interactive installations.
 
-Pictures below...
-
-
-[The Hive](./hive.html).
