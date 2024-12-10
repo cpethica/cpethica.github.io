@@ -77,3 +77,7 @@ navigation:
     link: ./ITV_ident.html          
   - name: [The Kronos]
     link: ./kronos.html         
+  - name: [Pylon]
+    link: ./pylon.html 
+  - name: [Oracle]
+    link: ./oracle.html               

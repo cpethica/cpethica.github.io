@@ -26,6 +26,12 @@
 <loc>http://localhost:4000/kronos.html</loc>
 </url>
 <url>
+<loc>http://localhost:4000/oracle.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/pylon.html</loc>
+</url>
+<url>
 <loc>http://localhost:4000/xmas_tree.html</loc>
 </url>
 </urlset>
